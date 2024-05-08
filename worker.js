@@ -4,7 +4,7 @@ const proxyIPs = ['cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'workers.c
 
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
 
-let sha224Password = '08f32643dbdacf81d0d511f1ee24b06de759e90f8edf742bbdc57d88';
+let sha224Password = '43910e37b2ffaa0b62c3373828e0dec99a1456fbce8220c282ae97ea';
 
 const worker_default = {
    /**
